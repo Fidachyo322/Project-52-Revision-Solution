@@ -5,11 +5,10 @@ using namespace std;
 int main() {
 
 	int size;
-	do {
-		cout << "Imput size of array: ";
-		cin >> size;
-	} while (size <= 0);
 
+	cout << "Imput size of array: ";
+	cin >> size;
+	
 	int* array = new int[size];
 
 	cout << "Imput elements of array: ";
