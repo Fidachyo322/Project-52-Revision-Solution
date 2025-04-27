@@ -1,0 +1,1 @@
+int cound_zero_elements(double* array, int size);
