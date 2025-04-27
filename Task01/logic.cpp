@@ -1,7 +1,7 @@
 #include "logic.h"
 
 int cound_zero_elements(double* array, int size) {
-	
+
 	if (size <= 0 || array == nullptr) {
 		return -1;
 	}

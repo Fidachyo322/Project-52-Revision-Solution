@@ -1,0 +1,1 @@
+int get_extreme_index(double* array, int size, int max, int min);
